@@ -1,10 +1,10 @@
 <h3>Installation:</h3><br>
-git clone https://github.com/muhammedensar/mac-conf.git<br>
+<b>git clone https://github.com/muhammedensar/mac-conf.git<br>
 cd mac-conf/<br>
 chmod +x mac-conf.py<br>
+</b>
 
-
-Usage:
-sudo python mac-conf.py -i interface -m mac_adress
-Exampla:
-sudo python mac-conf.py -i wlan0 -m 00:11:22:33:44:55
+<h3>Usage:</h3><br>
+<b>sudo python mac-conf.py -i interface -m mac_adress<br><b>
+<h3>Example:<br></h3>
+<b>sudo python mac-conf.py -i wlan0 -m 00:11:22:33:44:55<br></b>
