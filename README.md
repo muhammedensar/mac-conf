@@ -1,4 +1,4 @@
-<h3>Installation:</b3><br>
+<h3>Installation:</h3><br>
 git clone https://github.com/muhammedensar/mac-conf.git<br>
 cd mac-conf/<br>
 chmod +x mac-conf.py<br>
