@@ -1,7 +1,7 @@
-Installation:<br>
-git clone https://github.com/muhammedensar/mac-conf.git
-cd mac-conf/
-chmod +x mac-conf.py
+<h3>Installation:</b3><br>
+git clone https://github.com/muhammedensar/mac-conf.git<br>
+cd mac-conf/<br>
+chmod +x mac-conf.py<br>
 
 
 Usage:
